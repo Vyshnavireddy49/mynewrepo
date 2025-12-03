@@ -11,9 +11,6 @@ Explanation : Number = 145
 145 = 1 + 24 + 120
 =======
   new code by dev-1 without pull the code
->>>>>>> Stashed changes
+>>>>>>> Stashed change
 
-we are checking
-
-added data
 
