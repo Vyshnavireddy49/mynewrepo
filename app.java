@@ -15,5 +15,6 @@ Explanation : Number = 145
 
 we arehecking for fetch command
 
-we are not getting the answer
+we are not
+
 
