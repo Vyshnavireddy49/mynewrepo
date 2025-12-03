@@ -14,3 +14,5 @@ Explanation : Number = 145
 >>>>>>> Stashed changes
 
 we arehecking for fetch command
+
+add the timingsinthe publicrepo
