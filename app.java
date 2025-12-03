@@ -14,3 +14,6 @@ Explanation : Number = 145
 >>>>>>> Stashed changes
 
 we are checking
+
+added data
+
