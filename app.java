@@ -13,11 +13,3 @@ Explanation : Number = 145
   new code by dev-1 without pull the code
 >>>>>>> Stashed changes
 
-we arehecking for fetch command
-
-we are not
-
-  Checking 
-
-
-
